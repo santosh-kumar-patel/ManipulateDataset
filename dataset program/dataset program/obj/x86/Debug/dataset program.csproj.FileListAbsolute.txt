@@ -1,0 +1,9 @@
+E:\net developer\C#\dataset program\dataset program\bin\Debug\dataset program.exe
+E:\net developer\C#\dataset program\dataset program\bin\Debug\dataset program.pdb
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset_program.Form1.resources
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset_program.Properties.Resources.resources
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset program.csproj.GenerateResource.Cache
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset program.exe
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset program.pdb
+E:\net developer\C#\dataset program\dataset program\bin\Debug\dataset program.exe.config
+E:\net developer\C#\dataset program\dataset program\obj\x86\Debug\dataset program.csprojResolveAssemblyReference.cache
